@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1><font color='red'> Welcome to Ashok IT - Software Training Institute <font></h1>
-<h2>Learn Here.. Lead Anywhere..!! </h2>
+<h1><font color='red'> Welcome to Greens IT - <font></h1>
+<h2> This is arun as senior Trainer in Greens!! </h2>
 
-<a href="https://ashokitech.com/online-training-schedules">Click Here To See Ashok IT Training Schedules</a>
+<a href=" http://www.greenstechnologys.com/contact.php">Click Here To See Ashok IT Training Schedules</a>
   
-  <h2> Call Us : + 91 - 99 85 39 66 77 </h2>
+  <h2> Call Us : + 91 - 99 65 47 60 18 </h2>
 
 </body>
 </html>
